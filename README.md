@@ -1,7 +1,7 @@
 
 #  YouTube Q&A Chatbot (TubeTalk Bot)
 
-##  Project Goal 
+##  Project Goal  
 
 The **TubeTalk Bot** is an interactive AI chatbot that allows users to input a YouTube video URL and ask questions about the video through **text or voice**. It transcribes the video audio, builds a searchable vector database, and responds with accurate answers or summaries using **LangChain Agents** and **OpenAI GPT-4**.
 
