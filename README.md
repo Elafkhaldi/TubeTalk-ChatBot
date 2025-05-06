@@ -37,7 +37,7 @@ The **TubeTalk Bot** is an interactive AI chatbot that allows users to input a Y
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/youtube-ai-chatbot.git
+git clone https://github.com/Elafkhaldi/TubeTalk-ChatBot.git
 cd youtube-ai-chatbot
 ```
 
